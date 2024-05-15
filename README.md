@@ -38,3 +38,9 @@ git merge upstream/main -m "meaningful message about what you're updating"
 ```
 git push origin main
 ```
+
+8. Pull changes to local repo from my Github repo
+```
+git pull origin main
+```
+
